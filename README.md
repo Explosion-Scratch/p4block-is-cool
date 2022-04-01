@@ -58,3 +58,4 @@ Make a PR to remove yourself if you want to do it again
 - [matthewkris](https://github.com/matthewkris)
 - [kulshekhar](https://github.com/kulshekhar)
 - [wasib](https://github.com/wasib)
+- [s-waite](https://github.com/s-waite)
