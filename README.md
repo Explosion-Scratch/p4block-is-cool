@@ -91,3 +91,4 @@ Make a PR to remove yourself if you want to do it again
 - [tylermcginnis](https://github.com/tylermcginnis)
 - [krazyjakee](https://github.com/krazyjakee)
 - [SpencerDoRight](https://github.com/SpencerDoRight)
+- [bwasti](https://github.com/bwasti)
