@@ -50,3 +50,4 @@ Make a PR to remove yourself if you want to do it again
 - [coltoneshaw](https://github.com/coltoneshaw)
 - [airarrazaval](https://github.com/airarrazaval)
 - [neferin12](https://github.com/neferin12)
+- [StoneCypher](https://github.com/StoneCypher)
