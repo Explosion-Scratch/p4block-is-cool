@@ -69,3 +69,4 @@ Make a PR to remove yourself if you want to do it again
 - [kamdz](https://github.com/kamdz)
 - [kamalyusuf](https://github.com/kamalyusuf)
 - [th3fallen](https://github.com/th3fallen)
+- [quackduck](https://github.com/quackduck)
