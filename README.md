@@ -11,3 +11,4 @@ That's literally it
 - [Cool-Scratcher](https://github.com/Cool-Scratcher)
 - [Explosion-Scratch](https://github.com/Explosion-Scratch)
 - [devxan](https://github.com/devxan)
+- [jeffalo](https://github.com/jeffalo)
