@@ -59,3 +59,4 @@ Make a PR to remove yourself if you want to do it again
 - [kulshekhar](https://github.com/kulshekhar)
 - [wasib](https://github.com/wasib)
 - [s-waite](https://github.com/s-waite)
+- [JustinGillespie](https://github.com/JustinGillespie)
