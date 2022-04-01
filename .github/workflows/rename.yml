@@ -12,7 +12,7 @@ jobs:
       - run: ls
       - run: cat contributors.json
       - run: |
-          endings=("epic" "cool" "starred-this-repo" "starred-this-repo" "awesome" "is-a-unicorn")
+          endings=("is-epic" "is-cool" "starred-this-repo" "starred-this-repo" "is-awesome" "is-a-unicorn")
           selectedEnding=${endings[ $RANDOM % ${#endings[@]} ]}
           cat contributors.json | jq -e '.|any(. == "${{github.actor}}")' > /dev/null \
             && exit 1 \
