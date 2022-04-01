@@ -89,3 +89,4 @@ Make a PR to remove yourself if you want to do it again
 - [Tackx](https://github.com/Tackx)
 - [Mellbourn](https://github.com/Mellbourn)
 - [tylermcginnis](https://github.com/tylermcginnis)
+- [krazyjakee](https://github.com/krazyjakee)
