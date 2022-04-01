@@ -49,3 +49,4 @@ Make a PR to remove yourself if you want to do it again
 - [jalal246](https://github.com/jalal246)
 - [coltoneshaw](https://github.com/coltoneshaw)
 - [airarrazaval](https://github.com/airarrazaval)
+- [neferin12](https://github.com/neferin12)
