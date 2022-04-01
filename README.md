@@ -86,3 +86,4 @@ Make a PR to remove yourself if you want to do it again
 - [danilofuchs](https://github.com/danilofuchs)
 - [BattleCh1cken](https://github.com/BattleCh1cken)
 - [itsmequinn](https://github.com/itsmequinn)
+- [Tackx](https://github.com/Tackx)
