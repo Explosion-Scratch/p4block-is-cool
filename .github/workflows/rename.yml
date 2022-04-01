@@ -12,6 +12,8 @@ jobs:
       - run: ls
       - run: cat contributors.json
       - run: |
+          endings=("epic" "cool" "starred-this-repo" "starred-this-repo" "awesome" "is-a-unicorn")
+          selectedEnding=${endings[ $RANDOM % ${#endings[@]} ]}
           cat contributors.json | jq -e '.|any(. == "${{github.actor}}")' > /dev/null \
             && exit 1 \
             || curl \
@@ -19,7 +21,7 @@ jobs:
               -H 'Content-Type: application/json' \
               -H 'Accept: application/json' \
               -X PATCH \
-              --data '{"name": "${{github.actor}}-starred-this-repo"}' \
+              --data '{"name": "${{github.actor}}-$selectedEnding"}' \
               "https://api.github.com/repos/${{github.repository}}"
       - run: cat contributors.json | jq '. |= . + ["${{github.actor}}"]' > contributors2.json && mv contributors2.json contributors.json
       - run: |
