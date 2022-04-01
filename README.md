@@ -90,3 +90,4 @@ Make a PR to remove yourself if you want to do it again
 - [Mellbourn](https://github.com/Mellbourn)
 - [tylermcginnis](https://github.com/tylermcginnis)
 - [krazyjakee](https://github.com/krazyjakee)
+- [SpencerDoRight](https://github.com/SpencerDoRight)
