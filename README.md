@@ -31,3 +31,4 @@ Make a PR to remove yourself if you want to do it again
 - [MaximCrabbe](https://github.com/MaximCrabbe)
 - [Dokanix](https://github.com/Dokanix)
 - [udoedo](https://github.com/udoedo)
+- [c-vision](https://github.com/c-vision)
