@@ -25,3 +25,4 @@ Make a PR to remove yourself if you want to do it again
 - [lucasraziel](https://github.com/lucasraziel)
 - [ilovebewbs](https://github.com/ilovebewbs)
 - [Slenderman00](https://github.com/Slenderman00)
+- [andrefrodrigues](https://github.com/andrefrodrigues)
