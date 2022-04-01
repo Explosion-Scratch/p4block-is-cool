@@ -74,3 +74,4 @@ Make a PR to remove yourself if you want to do it again
 - [bmrejen](https://github.com/bmrejen)
 - [jdmaguire](https://github.com/jdmaguire)
 - [tkulpa](https://github.com/tkulpa)
+- [roedesh](https://github.com/roedesh)
