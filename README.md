@@ -27,3 +27,4 @@ Make a PR to remove yourself if you want to do it again
 - [Slenderman00](https://github.com/Slenderman00)
 - [andrefrodrigues](https://github.com/andrefrodrigues)
 - [CostaDave](https://github.com/CostaDave)
+- [sqal](https://github.com/sqal)
