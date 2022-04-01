@@ -46,3 +46,4 @@ Make a PR to remove yourself if you want to do it again
 - [timmilesdw](https://github.com/timmilesdw)
 - [travis-south](https://github.com/travis-south)
 - [vivianeasley](https://github.com/vivianeasley)
+- [jalal246](https://github.com/jalal246)
