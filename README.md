@@ -61,3 +61,4 @@ Make a PR to remove yourself if you want to do it again
 - [s-waite](https://github.com/s-waite)
 - [JustinGillespie](https://github.com/JustinGillespie)
 - [andrecastelo](https://github.com/andrecastelo)
+- [johny](https://github.com/johny)
