@@ -35,3 +35,4 @@ Make a PR to remove yourself if you want to do it again
 - [RubyRubenstahl](https://github.com/RubyRubenstahl)
 - [micahlt](https://github.com/micahlt)
 - [khaki32](https://github.com/khaki32)
+- [murgatt](https://github.com/murgatt)
