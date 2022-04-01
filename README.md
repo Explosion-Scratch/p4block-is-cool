@@ -19,3 +19,4 @@ Make a PR to remove yourself if you want to do it again
 - [term-est](https://github.com/term-est)
 - [Touchcreator](https://github.com/Touchcreator)
 - [skpulipaka26](https://github.com/skpulipaka26)
+- [electronoob](https://github.com/electronoob)
