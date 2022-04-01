@@ -32,3 +32,4 @@ Make a PR to remove yourself if you want to do it again
 - [Dokanix](https://github.com/Dokanix)
 - [udoedo](https://github.com/udoedo)
 - [c-vision](https://github.com/c-vision)
+- [RubyRubenstahl](https://github.com/RubyRubenstahl)
