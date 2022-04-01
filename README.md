@@ -21,3 +21,4 @@ Make a PR to remove yourself if you want to do it again
 - [skpulipaka26](https://github.com/skpulipaka26)
 - [electronoob](https://github.com/electronoob)
 - [TylerKSV](https://github.com/TylerKSV)
+- [Apatrid](https://github.com/Apatrid)
