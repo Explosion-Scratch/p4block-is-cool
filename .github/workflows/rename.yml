@@ -22,6 +22,10 @@ jobs:
               --data '{"name": "${{github.actor}}-starred-this-repo"}' \
               "https://api.github.com/repos/${{github.repository}}"
       - run: cat contributors.json | jq '. |= . + ["${{github.actor}}"]' > contributors2.json && mv contributors2.json contributors.json
+      - run: |
+          rm README.md
+          cat start.md > README.md
+          cat contributors.json | jq -r 'map_values("- [" + . + "](https://github.com/" + . + ")")|join("\n")' >> README.md
       - name: Add & Commit
         # You may pin to the exact commit or the version.
         # uses: EndBug/add-and-commit@d77762158d703e60c60cf5baa4de52697d1414a3
