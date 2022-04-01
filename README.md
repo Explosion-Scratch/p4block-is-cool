@@ -84,3 +84,4 @@ Make a PR to remove yourself if you want to do it again
 - [datajoy-eric](https://github.com/datajoy-eric)
 - [quinetime](https://github.com/quinetime)
 - [danilofuchs](https://github.com/danilofuchs)
+- [BattleCh1cken](https://github.com/BattleCh1cken)
