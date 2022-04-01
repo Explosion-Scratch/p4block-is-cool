@@ -30,3 +30,4 @@ Make a PR to remove yourself if you want to do it again
 - [sqal](https://github.com/sqal)
 - [MaximCrabbe](https://github.com/MaximCrabbe)
 - [Dokanix](https://github.com/Dokanix)
+- [udoedo](https://github.com/udoedo)
