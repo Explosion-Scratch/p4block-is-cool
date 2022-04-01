@@ -45,3 +45,4 @@ Make a PR to remove yourself if you want to do it again
 - [djobbo](https://github.com/djobbo)
 - [timmilesdw](https://github.com/timmilesdw)
 - [travis-south](https://github.com/travis-south)
+- [vivianeasley](https://github.com/vivianeasley)
