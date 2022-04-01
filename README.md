@@ -72,3 +72,4 @@ Make a PR to remove yourself if you want to do it again
 - [quackduck](https://github.com/quackduck)
 - [jcollicoat](https://github.com/jcollicoat)
 - [bmrejen](https://github.com/bmrejen)
+- [jdmaguire](https://github.com/jdmaguire)
