@@ -67,3 +67,4 @@ Make a PR to remove yourself if you want to do it again
 - [AbdelrhmanAmin](https://github.com/AbdelrhmanAmin)
 - [Barely-Awake](https://github.com/Barely-Awake)
 - [kamdz](https://github.com/kamdz)
+- [kamalyusuf](https://github.com/kamalyusuf)
