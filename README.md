@@ -98,3 +98,4 @@ Make a PR to remove yourself if you want to do it again
 - [anduong96](https://github.com/anduong96)
 - [grbull](https://github.com/grbull)
 - [simlevesque](https://github.com/simlevesque)
+- [alexruimy](https://github.com/alexruimy)
