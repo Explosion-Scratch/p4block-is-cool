@@ -57,3 +57,4 @@ Make a PR to remove yourself if you want to do it again
 - [ttoennies](https://github.com/ttoennies)
 - [matthewkris](https://github.com/matthewkris)
 - [kulshekhar](https://github.com/kulshekhar)
+- [wasib](https://github.com/wasib)
