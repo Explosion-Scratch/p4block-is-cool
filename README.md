@@ -52,3 +52,4 @@ Make a PR to remove yourself if you want to do it again
 - [neferin12](https://github.com/neferin12)
 - [StoneCypher](https://github.com/StoneCypher)
 - [WoodyWoodsta](https://github.com/WoodyWoodsta)
+- [king0120](https://github.com/king0120)
