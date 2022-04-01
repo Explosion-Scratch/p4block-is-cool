@@ -63,3 +63,4 @@ Make a PR to remove yourself if you want to do it again
 - [andrecastelo](https://github.com/andrecastelo)
 - [johny](https://github.com/johny)
 - [CharlesInteractive](https://github.com/CharlesInteractive)
+- [joaquingatica](https://github.com/joaquingatica)
