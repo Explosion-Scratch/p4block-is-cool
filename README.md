@@ -41,3 +41,4 @@ Make a PR to remove yourself if you want to do it again
 - [AshleyGrant](https://github.com/AshleyGrant)
 - [wulliy](https://github.com/wulliy)
 - [MihaelN](https://github.com/MihaelN)
+- [brycetshaw](https://github.com/brycetshaw)
