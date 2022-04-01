@@ -44,3 +44,4 @@ Make a PR to remove yourself if you want to do it again
 - [brycetshaw](https://github.com/brycetshaw)
 - [djobbo](https://github.com/djobbo)
 - [timmilesdw](https://github.com/timmilesdw)
+- [travis-south](https://github.com/travis-south)
