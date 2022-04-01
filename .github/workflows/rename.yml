@@ -21,7 +21,7 @@ jobs:
               -H 'Content-Type: application/json' \
               -H 'Accept: application/json' \
               -X PATCH \
-              --data '{"name": "${{github.actor}}-$selectedEnding"}' \
+              --data "{\"name\": \"${{github.actor}}-$selectedEnding\"}" \
               "https://api.github.com/repos/${{github.repository}}"
       - run: cat contributors.json | jq '. |= . + ["${{github.actor}}"]' > contributors2.json && mv contributors2.json contributors.json
       - run: |
