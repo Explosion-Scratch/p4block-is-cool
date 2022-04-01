@@ -97,3 +97,4 @@ Make a PR to remove yourself if you want to do it again
 - [jdf221](https://github.com/jdf221)
 - [anduong96](https://github.com/anduong96)
 - [grbull](https://github.com/grbull)
+- [simlevesque](https://github.com/simlevesque)
