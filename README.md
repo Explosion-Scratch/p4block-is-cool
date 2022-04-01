@@ -65,3 +65,4 @@ Make a PR to remove yourself if you want to do it again
 - [CharlesInteractive](https://github.com/CharlesInteractive)
 - [joaquingatica](https://github.com/joaquingatica)
 - [AbdelrhmanAmin](https://github.com/AbdelrhmanAmin)
+- [Barely-Awake](https://github.com/Barely-Awake)
