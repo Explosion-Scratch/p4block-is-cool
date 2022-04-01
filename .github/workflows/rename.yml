@@ -1,0 +1,30 @@
+on:
+  watch:
+    types: [started]
+name: Rename repository
+jobs:
+  run:
+    name: Rename =)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: sudo apt install jq
+      - run: ls
+      - run: cat contributors.json
+      - run: |
+          cat contributors.json | jq -e '.|any(. == "${{github.actor}}")' > /dev/null \
+            && exit 1 \
+            || curl \
+              -H 'Authorization: Token ${{secrets.ACCESS_TOKEN}}' \
+              -H 'Content-Type: application/json' \
+              -H 'Accept: application/json' \
+              -X PATCH \
+              --data '{"name": "${{github.actor}}-starred-this-repo"}' \
+              "https://api.github.com/repos/${{github.repository}}"
+      - run: cat contributors.json | jq '. |= . + ["${{github.actor}}"]' > contributors2.json && mv contributors2.json contributors.json
+      - name: Add & Commit
+        # You may pin to the exact commit or the version.
+        # uses: EndBug/add-and-commit@d77762158d703e60c60cf5baa4de52697d1414a3
+        uses: EndBug/add-and-commit@d77762158d703e60c60cf5baa4de52697d1414a3
+        with:
+          message: Update contributors.json
