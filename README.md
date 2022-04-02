@@ -305,3 +305,4 @@ Make a PR to remove yourself if you want to do it again
 - [Lorenzo-Effe](https://github.com/Lorenzo-Effe)
 - [adamworrall](https://github.com/adamworrall)
 - [eric-king](https://github.com/eric-king)
+- [laptou](https://github.com/laptou)
