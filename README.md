@@ -160,3 +160,4 @@ Make a PR to remove yourself if you want to do it again
 - [kieraneglin](https://github.com/kieraneglin)
 - [eli-s-r](https://github.com/eli-s-r)
 - [acouch](https://github.com/acouch)
+- [catillery](https://github.com/catillery)
