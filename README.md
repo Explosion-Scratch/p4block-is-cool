@@ -128,3 +128,4 @@ Make a PR to remove yourself if you want to do it again
 - [joshuarose](https://github.com/joshuarose)
 - [MeoMix](https://github.com/MeoMix)
 - [evan-delasota](https://github.com/evan-delasota)
+- [diligent176](https://github.com/diligent176)
