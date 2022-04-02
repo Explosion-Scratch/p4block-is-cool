@@ -207,3 +207,4 @@ Make a PR to remove yourself if you want to do it again
 - [Drumstix42](https://github.com/Drumstix42)
 - [jonaskuske](https://github.com/jonaskuske)
 - [pindamonhangaba](https://github.com/pindamonhangaba)
+- [johncmunson](https://github.com/johncmunson)
