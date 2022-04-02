@@ -254,3 +254,4 @@ Make a PR to remove yourself if you want to do it again
 - [codinghipster](https://github.com/codinghipster)
 - [leonyu](https://github.com/leonyu)
 - [PocketPiggy](https://github.com/PocketPiggy)
+- [H4ad](https://github.com/H4ad)
