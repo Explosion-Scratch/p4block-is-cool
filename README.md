@@ -214,3 +214,4 @@ Make a PR to remove yourself if you want to do it again
 - [dit7ya](https://github.com/dit7ya)
 - [ricktm](https://github.com/ricktm)
 - [KirbyMcKenzie](https://github.com/KirbyMcKenzie)
+- [Fordi](https://github.com/Fordi)
