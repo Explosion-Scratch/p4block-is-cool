@@ -292,3 +292,4 @@ Make a PR to remove yourself if you want to do it again
 - [djs5008](https://github.com/djs5008)
 - [devjustin](https://github.com/devjustin)
 - [jcksnparsons](https://github.com/jcksnparsons)
+- [cecrigope](https://github.com/cecrigope)
