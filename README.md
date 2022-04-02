@@ -189,3 +189,4 @@ Make a PR to remove yourself if you want to do it again
 - [nikonet](https://github.com/nikonet)
 - [tarellel](https://github.com/tarellel)
 - [xparadoxical](https://github.com/xparadoxical)
+- [Sylveon76](https://github.com/Sylveon76)
