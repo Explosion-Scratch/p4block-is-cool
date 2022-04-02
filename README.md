@@ -150,3 +150,4 @@ Make a PR to remove yourself if you want to do it again
 - [aaronb97](https://github.com/aaronb97)
 - [lawjeremy](https://github.com/lawjeremy)
 - [b0o](https://github.com/b0o)
+- [tedivm](https://github.com/tedivm)
