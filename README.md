@@ -151,3 +151,4 @@ Make a PR to remove yourself if you want to do it again
 - [lawjeremy](https://github.com/lawjeremy)
 - [b0o](https://github.com/b0o)
 - [tedivm](https://github.com/tedivm)
+- [sstenchlak](https://github.com/sstenchlak)
