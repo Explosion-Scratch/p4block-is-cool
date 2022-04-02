@@ -364,3 +364,4 @@ Make a PR to remove yourself if you want to do it again
 - [SamuelQZQ](https://github.com/SamuelQZQ)
 - [daviddwlee84](https://github.com/daviddwlee84)
 - [godspeedfw](https://github.com/godspeedfw)
+- [vincens2005](https://github.com/vincens2005)
