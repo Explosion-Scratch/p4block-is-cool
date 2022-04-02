@@ -287,3 +287,4 @@ Make a PR to remove yourself if you want to do it again
 - [mlpao500](https://github.com/mlpao500)
 - [alphex](https://github.com/alphex)
 - [johncalvinroberts](https://github.com/johncalvinroberts)
+- [AlexNaga](https://github.com/AlexNaga)
