@@ -162,3 +162,4 @@ Make a PR to remove yourself if you want to do it again
 - [acouch](https://github.com/acouch)
 - [catillery](https://github.com/catillery)
 - [arianra](https://github.com/arianra)
+- [quinnturner](https://github.com/quinnturner)
