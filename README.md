@@ -146,3 +146,4 @@ Make a PR to remove yourself if you want to do it again
 - [4thWallInt](https://github.com/4thWallInt)
 - [Ilshidur](https://github.com/Ilshidur)
 - [youngchief-btw](https://github.com/youngchief-btw)
+- [fraziermork](https://github.com/fraziermork)
