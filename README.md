@@ -243,3 +243,4 @@ Make a PR to remove yourself if you want to do it again
 - [Waqas-Abbasi](https://github.com/Waqas-Abbasi)
 - [avasthiabhyudaya](https://github.com/avasthiabhyudaya)
 - [ahtcx](https://github.com/ahtcx)
+- [seanvelasco](https://github.com/seanvelasco)
