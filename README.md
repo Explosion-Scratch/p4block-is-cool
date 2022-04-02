@@ -230,3 +230,4 @@ Make a PR to remove yourself if you want to do it again
 - [the-darce](https://github.com/the-darce)
 - [rayyreall](https://github.com/rayyreall)
 - [aaronpo97](https://github.com/aaronpo97)
+- [Jafnee](https://github.com/Jafnee)
