@@ -329,3 +329,4 @@ Make a PR to remove yourself if you want to do it again
 - [JcdeA](https://github.com/JcdeA)
 - [Chiroyce1](https://github.com/Chiroyce1)
 - [C-Jansek](https://github.com/C-Jansek)
+- [jredville](https://github.com/jredville)
