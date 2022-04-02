@@ -320,3 +320,4 @@ Make a PR to remove yourself if you want to do it again
 - [pprice](https://github.com/pprice)
 - [beforan](https://github.com/beforan)
 - [CominAtYou](https://github.com/CominAtYou)
+- [dermoumi](https://github.com/dermoumi)
