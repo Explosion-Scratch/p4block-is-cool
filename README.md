@@ -217,3 +217,4 @@ Make a PR to remove yourself if you want to do it again
 - [Fordi](https://github.com/Fordi)
 - [kevinlangleyjr](https://github.com/kevinlangleyjr)
 - [jmacattack22](https://github.com/jmacattack22)
+- [defraz](https://github.com/defraz)
