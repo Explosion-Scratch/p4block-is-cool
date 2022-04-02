@@ -336,3 +336,4 @@ Make a PR to remove yourself if you want to do it again
 - [famasoon](https://github.com/famasoon)
 - [AdithyaBhat17](https://github.com/AdithyaBhat17)
 - [Semisol](https://github.com/Semisol)
+- [thegoodideaco](https://github.com/thegoodideaco)
