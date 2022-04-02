@@ -143,3 +143,4 @@ Make a PR to remove yourself if you want to do it again
 - [tedi25](https://github.com/tedi25)
 - [cbrandao18](https://github.com/cbrandao18)
 - [fraincs](https://github.com/fraincs)
+- [4thWallInt](https://github.com/4thWallInt)
