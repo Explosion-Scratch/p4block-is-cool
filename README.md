@@ -175,3 +175,4 @@ Make a PR to remove yourself if you want to do it again
 - [packet-sent](https://github.com/packet-sent)
 - [tomershvueli](https://github.com/tomershvueli)
 - [eXamadeus](https://github.com/eXamadeus)
+- [dotBeFoRE](https://github.com/dotBeFoRE)
