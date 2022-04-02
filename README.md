@@ -325,3 +325,4 @@ Make a PR to remove yourself if you want to do it again
 - [hueyyeng](https://github.com/hueyyeng)
 - [nondotxyz](https://github.com/nondotxyz)
 - [rajatdua](https://github.com/rajatdua)
+- [ammarif](https://github.com/ammarif)
