@@ -208,3 +208,4 @@ Make a PR to remove yourself if you want to do it again
 - [jonaskuske](https://github.com/jonaskuske)
 - [pindamonhangaba](https://github.com/pindamonhangaba)
 - [johncmunson](https://github.com/johncmunson)
+- [emhagman](https://github.com/emhagman)
