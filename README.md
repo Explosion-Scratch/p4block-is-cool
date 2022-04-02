@@ -125,3 +125,4 @@ Make a PR to remove yourself if you want to do it again
 - [timster](https://github.com/timster)
 - [alekslario](https://github.com/alekslario)
 - [Seeker993](https://github.com/Seeker993)
+- [joshuarose](https://github.com/joshuarose)
