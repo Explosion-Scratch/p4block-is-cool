@@ -247,3 +247,4 @@ Make a PR to remove yourself if you want to do it again
 - [VictorGaiva](https://github.com/VictorGaiva)
 - [Temepest74](https://github.com/Temepest74)
 - [bryan-hoang](https://github.com/bryan-hoang)
+- [jantzeca](https://github.com/jantzeca)
