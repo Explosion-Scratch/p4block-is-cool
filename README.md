@@ -212,3 +212,4 @@ Make a PR to remove yourself if you want to do it again
 - [Rye123](https://github.com/Rye123)
 - [getsec](https://github.com/getsec)
 - [dit7ya](https://github.com/dit7ya)
+- [ricktm](https://github.com/ricktm)
