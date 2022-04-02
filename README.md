@@ -297,3 +297,4 @@ Make a PR to remove yourself if you want to do it again
 - [Liamdoult](https://github.com/Liamdoult)
 - [swummoq](https://github.com/swummoq)
 - [troynt](https://github.com/troynt)
+- [benighted](https://github.com/benighted)
