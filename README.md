@@ -278,3 +278,4 @@ Make a PR to remove yourself if you want to do it again
 - [Celeo](https://github.com/Celeo)
 - [Snoparino](https://github.com/Snoparino)
 - [gempesaw](https://github.com/gempesaw)
+- [redsuperbat](https://github.com/redsuperbat)
