@@ -374,3 +374,4 @@ Make a PR to remove yourself if you want to do it again
 - [VelocityDesign](https://github.com/VelocityDesign)
 - [phat-pratt](https://github.com/phat-pratt)
 - [elliotcourant](https://github.com/elliotcourant)
+- [AJLStick](https://github.com/AJLStick)
