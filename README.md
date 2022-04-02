@@ -368,3 +368,4 @@ Make a PR to remove yourself if you want to do it again
 - [ahmetlii](https://github.com/ahmetlii)
 - [Xaxeric](https://github.com/Xaxeric)
 - [gi-yt](https://github.com/gi-yt)
+- [kamil-bednarek](https://github.com/kamil-bednarek)
