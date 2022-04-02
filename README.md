@@ -307,3 +307,4 @@ Make a PR to remove yourself if you want to do it again
 - [eric-king](https://github.com/eric-king)
 - [laptou](https://github.com/laptou)
 - [andrewgreenh](https://github.com/andrewgreenh)
+- [Johnsiras](https://github.com/Johnsiras)
