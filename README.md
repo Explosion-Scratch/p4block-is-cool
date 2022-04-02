@@ -302,3 +302,4 @@ Make a PR to remove yourself if you want to do it again
 - [casperx](https://github.com/casperx)
 - [tiphedor](https://github.com/tiphedor)
 - [khannom](https://github.com/khannom)
+- [Lorenzo-Effe](https://github.com/Lorenzo-Effe)
