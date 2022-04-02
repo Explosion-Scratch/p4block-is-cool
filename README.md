@@ -178,3 +178,4 @@ Make a PR to remove yourself if you want to do it again
 - [dotBeFoRE](https://github.com/dotBeFoRE)
 - [finalight](https://github.com/finalight)
 - [LakeTheImperial](https://github.com/LakeTheImperial)
+- [TheCasualParry](https://github.com/TheCasualParry)
