@@ -244,3 +244,4 @@ Make a PR to remove yourself if you want to do it again
 - [avasthiabhyudaya](https://github.com/avasthiabhyudaya)
 - [ahtcx](https://github.com/ahtcx)
 - [seanvelasco](https://github.com/seanvelasco)
+- [VictorGaiva](https://github.com/VictorGaiva)
