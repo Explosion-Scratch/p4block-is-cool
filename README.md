@@ -102,3 +102,4 @@ Make a PR to remove yourself if you want to do it again
 - [s1ntaxe770r](https://github.com/s1ntaxe770r)
 - [bobwhitelock](https://github.com/bobwhitelock)
 - [timc13](https://github.com/timc13)
+- [arcman77](https://github.com/arcman77)
