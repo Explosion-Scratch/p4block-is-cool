@@ -340,3 +340,4 @@ Make a PR to remove yourself if you want to do it again
 - [pufferfish101007](https://github.com/pufferfish101007)
 - [eagrwx](https://github.com/eagrwx)
 - [ghostbear](https://github.com/ghostbear)
+- [krustowski](https://github.com/krustowski)
