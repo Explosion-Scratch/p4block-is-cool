@@ -133,3 +133,4 @@ Make a PR to remove yourself if you want to do it again
 - [kaminskia1](https://github.com/kaminskia1)
 - [Keristero](https://github.com/Keristero)
 - [ivaylomarinovski](https://github.com/ivaylomarinovski)
+- [Fire-](https://github.com/Fire-)
