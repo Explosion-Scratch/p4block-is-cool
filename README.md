@@ -156,3 +156,4 @@ Make a PR to remove yourself if you want to do it again
 - [nadameu](https://github.com/nadameu)
 - [mitchwag](https://github.com/mitchwag)
 - [garonfok](https://github.com/garonfok)
+- [dtrodger](https://github.com/dtrodger)
