@@ -345,3 +345,4 @@ Make a PR to remove yourself if you want to do it again
 - [nunoleong](https://github.com/nunoleong)
 - [usdogu](https://github.com/usdogu)
 - [kfleming812](https://github.com/kfleming812)
+- [dialgamew](https://github.com/dialgamew)
