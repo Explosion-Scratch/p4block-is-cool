@@ -179,3 +179,4 @@ Make a PR to remove yourself if you want to do it again
 - [finalight](https://github.com/finalight)
 - [LakeTheImperial](https://github.com/LakeTheImperial)
 - [TheCasualParry](https://github.com/TheCasualParry)
+- [jcotton42](https://github.com/jcotton42)
