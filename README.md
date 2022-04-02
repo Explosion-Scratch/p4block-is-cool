@@ -190,3 +190,4 @@ Make a PR to remove yourself if you want to do it again
 - [tarellel](https://github.com/tarellel)
 - [xparadoxical](https://github.com/xparadoxical)
 - [Sylveon76](https://github.com/Sylveon76)
+- [joshsj](https://github.com/joshsj)
