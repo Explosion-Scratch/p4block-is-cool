@@ -141,3 +141,4 @@ Make a PR to remove yourself if you want to do it again
 - [xCykrix](https://github.com/xCykrix)
 - [dobettersoftware](https://github.com/dobettersoftware)
 - [tedi25](https://github.com/tedi25)
+- [cbrandao18](https://github.com/cbrandao18)
