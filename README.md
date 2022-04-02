@@ -157,3 +157,4 @@ Make a PR to remove yourself if you want to do it again
 - [mitchwag](https://github.com/mitchwag)
 - [garonfok](https://github.com/garonfok)
 - [dtrodger](https://github.com/dtrodger)
+- [kieraneglin](https://github.com/kieraneglin)
