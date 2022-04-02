@@ -126,3 +126,4 @@ Make a PR to remove yourself if you want to do it again
 - [alekslario](https://github.com/alekslario)
 - [Seeker993](https://github.com/Seeker993)
 - [joshuarose](https://github.com/joshuarose)
+- [MeoMix](https://github.com/MeoMix)
