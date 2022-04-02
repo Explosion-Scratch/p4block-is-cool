@@ -372,3 +372,4 @@ Make a PR to remove yourself if you want to do it again
 - [Yegorov](https://github.com/Yegorov)
 - [hertzg](https://github.com/hertzg)
 - [VelocityDesign](https://github.com/VelocityDesign)
+- [phat-pratt](https://github.com/phat-pratt)
