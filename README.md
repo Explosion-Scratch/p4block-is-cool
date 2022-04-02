@@ -163,3 +163,4 @@ Make a PR to remove yourself if you want to do it again
 - [catillery](https://github.com/catillery)
 - [arianra](https://github.com/arianra)
 - [quinnturner](https://github.com/quinnturner)
+- [chrisodicho](https://github.com/chrisodicho)
