@@ -206,3 +206,4 @@ Make a PR to remove yourself if you want to do it again
 - [ZimTheDestroyer](https://github.com/ZimTheDestroyer)
 - [Drumstix42](https://github.com/Drumstix42)
 - [jonaskuske](https://github.com/jonaskuske)
+- [pindamonhangaba](https://github.com/pindamonhangaba)
