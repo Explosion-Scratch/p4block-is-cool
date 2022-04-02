@@ -327,3 +327,4 @@ Make a PR to remove yourself if you want to do it again
 - [rajatdua](https://github.com/rajatdua)
 - [ammarif](https://github.com/ammarif)
 - [JcdeA](https://github.com/JcdeA)
+- [Chiroyce1](https://github.com/Chiroyce1)
