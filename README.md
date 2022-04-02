@@ -299,3 +299,4 @@ Make a PR to remove yourself if you want to do it again
 - [troynt](https://github.com/troynt)
 - [benighted](https://github.com/benighted)
 - [LeeKevin](https://github.com/LeeKevin)
+- [casperx](https://github.com/casperx)
