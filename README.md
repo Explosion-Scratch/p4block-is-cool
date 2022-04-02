@@ -108,3 +108,4 @@ Make a PR to remove yourself if you want to do it again
 - [ngearhart](https://github.com/ngearhart)
 - [dliv](https://github.com/dliv)
 - [SecretAgent55](https://github.com/SecretAgent55)
+- [johnmagbag1995](https://github.com/johnmagbag1995)
