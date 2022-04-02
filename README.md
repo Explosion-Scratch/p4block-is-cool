@@ -203,3 +203,4 @@ Make a PR to remove yourself if you want to do it again
 - [profound7](https://github.com/profound7)
 - [gotrevor](https://github.com/gotrevor)
 - [dannyg28](https://github.com/dannyg28)
+- [ZimTheDestroyer](https://github.com/ZimTheDestroyer)
