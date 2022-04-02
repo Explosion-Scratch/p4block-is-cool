@@ -181,3 +181,4 @@ Make a PR to remove yourself if you want to do it again
 - [TheCasualParry](https://github.com/TheCasualParry)
 - [jcotton42](https://github.com/jcotton42)
 - [spikegrobstein](https://github.com/spikegrobstein)
+- [jeremy8883](https://github.com/jeremy8883)
