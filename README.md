@@ -237,3 +237,4 @@ Make a PR to remove yourself if you want to do it again
 - [jfrader](https://github.com/jfrader)
 - [soriac](https://github.com/soriac)
 - [dkarter](https://github.com/dkarter)
+- [anikerr](https://github.com/anikerr)
