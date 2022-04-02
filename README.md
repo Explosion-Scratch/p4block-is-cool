@@ -255,3 +255,4 @@ Make a PR to remove yourself if you want to do it again
 - [leonyu](https://github.com/leonyu)
 - [PocketPiggy](https://github.com/PocketPiggy)
 - [H4ad](https://github.com/H4ad)
+- [chozandrias76](https://github.com/chozandrias76)
