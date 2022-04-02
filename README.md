@@ -337,3 +337,4 @@ Make a PR to remove yourself if you want to do it again
 - [AdithyaBhat17](https://github.com/AdithyaBhat17)
 - [Semisol](https://github.com/Semisol)
 - [thegoodideaco](https://github.com/thegoodideaco)
+- [pufferfish101007](https://github.com/pufferfish101007)
