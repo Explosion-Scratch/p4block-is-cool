@@ -187,3 +187,4 @@ Make a PR to remove yourself if you want to do it again
 - [toddc612](https://github.com/toddc612)
 - [tHBp](https://github.com/tHBp)
 - [nikonet](https://github.com/nikonet)
+- [tarellel](https://github.com/tarellel)
