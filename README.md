@@ -186,3 +186,4 @@ Make a PR to remove yourself if you want to do it again
 - [kshreve](https://github.com/kshreve)
 - [toddc612](https://github.com/toddc612)
 - [tHBp](https://github.com/tHBp)
+- [nikonet](https://github.com/nikonet)
