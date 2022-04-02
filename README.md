@@ -259,3 +259,4 @@ Make a PR to remove yourself if you want to do it again
 - [Simon-SDK](https://github.com/Simon-SDK)
 - [ZochNetdave](https://github.com/ZochNetdave)
 - [CheatCodeSam](https://github.com/CheatCodeSam)
+- [nicholas-ochoa](https://github.com/nicholas-ochoa)
