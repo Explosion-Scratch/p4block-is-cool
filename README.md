@@ -191,3 +191,4 @@ Make a PR to remove yourself if you want to do it again
 - [xparadoxical](https://github.com/xparadoxical)
 - [Sylveon76](https://github.com/Sylveon76)
 - [joshsj](https://github.com/joshsj)
+- [jonathanlinat](https://github.com/jonathanlinat)
