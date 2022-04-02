@@ -107,3 +107,4 @@ Make a PR to remove yourself if you want to do it again
 - [misterjmw](https://github.com/misterjmw)
 - [ngearhart](https://github.com/ngearhart)
 - [dliv](https://github.com/dliv)
+- [SecretAgent55](https://github.com/SecretAgent55)
