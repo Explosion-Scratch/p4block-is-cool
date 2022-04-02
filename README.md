@@ -314,3 +314,4 @@ Make a PR to remove yourself if you want to do it again
 - [Stazyu](https://github.com/Stazyu)
 - [Merthod](https://github.com/Merthod)
 - [rocket1](https://github.com/rocket1)
+- [bryantheastronaut](https://github.com/bryantheastronaut)
