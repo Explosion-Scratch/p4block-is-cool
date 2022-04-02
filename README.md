@@ -154,3 +154,4 @@ Make a PR to remove yourself if you want to do it again
 - [sstenchlak](https://github.com/sstenchlak)
 - [jpchip](https://github.com/jpchip)
 - [nadameu](https://github.com/nadameu)
+- [mitchwag](https://github.com/mitchwag)
