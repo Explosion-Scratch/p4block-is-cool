@@ -235,3 +235,4 @@ Make a PR to remove yourself if you want to do it again
 - [meowcraftY](https://github.com/meowcraftY)
 - [ErickJoestar](https://github.com/ErickJoestar)
 - [jfrader](https://github.com/jfrader)
+- [soriac](https://github.com/soriac)
