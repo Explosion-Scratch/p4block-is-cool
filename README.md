@@ -233,3 +233,4 @@ Make a PR to remove yourself if you want to do it again
 - [Jafnee](https://github.com/Jafnee)
 - [GMbrianlaw](https://github.com/GMbrianlaw)
 - [meowcraftY](https://github.com/meowcraftY)
+- [ErickJoestar](https://github.com/ErickJoestar)
