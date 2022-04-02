@@ -147,3 +147,4 @@ Make a PR to remove yourself if you want to do it again
 - [Ilshidur](https://github.com/Ilshidur)
 - [youngchief-btw](https://github.com/youngchief-btw)
 - [fraziermork](https://github.com/fraziermork)
+- [aaronb97](https://github.com/aaronb97)
