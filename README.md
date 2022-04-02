@@ -338,3 +338,4 @@ Make a PR to remove yourself if you want to do it again
 - [Semisol](https://github.com/Semisol)
 - [thegoodideaco](https://github.com/thegoodideaco)
 - [pufferfish101007](https://github.com/pufferfish101007)
+- [eagrwx](https://github.com/eagrwx)
