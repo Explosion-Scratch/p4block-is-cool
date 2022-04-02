@@ -354,3 +354,4 @@ Make a PR to remove yourself if you want to do it again
 - [rootEnginear](https://github.com/rootEnginear)
 - [walkxcode](https://github.com/walkxcode)
 - [G4LH4](https://github.com/G4LH4)
+- [rozari0](https://github.com/rozari0)
