@@ -273,3 +273,4 @@ Make a PR to remove yourself if you want to do it again
 - [petarzarkov](https://github.com/petarzarkov)
 - [bloqhead](https://github.com/bloqhead)
 - [vaaski](https://github.com/vaaski)
+- [HFDrae](https://github.com/HFDrae)
