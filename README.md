@@ -219,3 +219,4 @@ Make a PR to remove yourself if you want to do it again
 - [jmacattack22](https://github.com/jmacattack22)
 - [defraz](https://github.com/defraz)
 - [sysrage](https://github.com/sysrage)
+- [nandastone](https://github.com/nandastone)
