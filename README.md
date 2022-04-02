@@ -313,3 +313,4 @@ Make a PR to remove yourself if you want to do it again
 - [squaretron](https://github.com/squaretron)
 - [Stazyu](https://github.com/Stazyu)
 - [Merthod](https://github.com/Merthod)
+- [rocket1](https://github.com/rocket1)
