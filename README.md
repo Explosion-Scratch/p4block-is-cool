@@ -148,3 +148,4 @@ Make a PR to remove yourself if you want to do it again
 - [youngchief-btw](https://github.com/youngchief-btw)
 - [fraziermork](https://github.com/fraziermork)
 - [aaronb97](https://github.com/aaronb97)
+- [lawjeremy](https://github.com/lawjeremy)
