@@ -152,3 +152,4 @@ Make a PR to remove yourself if you want to do it again
 - [b0o](https://github.com/b0o)
 - [tedivm](https://github.com/tedivm)
 - [sstenchlak](https://github.com/sstenchlak)
+- [jpchip](https://github.com/jpchip)
