@@ -222,3 +222,4 @@ Make a PR to remove yourself if you want to do it again
 - [nandastone](https://github.com/nandastone)
 - [FaizBastomi](https://github.com/FaizBastomi)
 - [dustinswan](https://github.com/dustinswan)
+- [ericgrigorian](https://github.com/ericgrigorian)
