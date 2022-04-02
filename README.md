@@ -167,3 +167,4 @@ Make a PR to remove yourself if you want to do it again
 - [shane-fox](https://github.com/shane-fox)
 - [arkon](https://github.com/arkon)
 - [r1v1r](https://github.com/r1v1r)
+- [Taar](https://github.com/Taar)
