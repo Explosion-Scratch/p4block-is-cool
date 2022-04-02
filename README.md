@@ -220,3 +220,4 @@ Make a PR to remove yourself if you want to do it again
 - [defraz](https://github.com/defraz)
 - [sysrage](https://github.com/sysrage)
 - [nandastone](https://github.com/nandastone)
+- [FaizBastomi](https://github.com/FaizBastomi)
