@@ -265,3 +265,4 @@ Make a PR to remove yourself if you want to do it again
 - [siduck](https://github.com/siduck)
 - [fnc314](https://github.com/fnc314)
 - [ScottSchmeling](https://github.com/ScottSchmeling)
+- [yashasbhat](https://github.com/yashasbhat)
