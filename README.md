@@ -171,3 +171,4 @@ Make a PR to remove yourself if you want to do it again
 - [GriceTurrble](https://github.com/GriceTurrble)
 - [Atulin](https://github.com/Atulin)
 - [Shidesu](https://github.com/Shidesu)
+- [Kaoticz](https://github.com/Kaoticz)
