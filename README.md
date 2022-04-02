@@ -164,3 +164,4 @@ Make a PR to remove yourself if you want to do it again
 - [arianra](https://github.com/arianra)
 - [quinnturner](https://github.com/quinnturner)
 - [chrisodicho](https://github.com/chrisodicho)
+- [shane-fox](https://github.com/shane-fox)
