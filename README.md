@@ -361,3 +361,4 @@ Make a PR to remove yourself if you want to do it again
 - [Kaisiece](https://github.com/Kaisiece)
 - [Tantatorn-dev](https://github.com/Tantatorn-dev)
 - [12944qwerty](https://github.com/12944qwerty)
+- [SamuelQZQ](https://github.com/SamuelQZQ)
