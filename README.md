@@ -138,3 +138,4 @@ Make a PR to remove yourself if you want to do it again
 - [icylace](https://github.com/icylace)
 - [StevenBlack](https://github.com/StevenBlack)
 - [nvanonim](https://github.com/nvanonim)
+- [xCykrix](https://github.com/xCykrix)
