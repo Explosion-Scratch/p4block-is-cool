@@ -114,3 +114,4 @@ Make a PR to remove yourself if you want to do it again
 - [seanmbrogan](https://github.com/seanmbrogan)
 - [marcinciarka](https://github.com/marcinciarka)
 - [viemmsakh](https://github.com/viemmsakh)
+- [qoby](https://github.com/qoby)
