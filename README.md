@@ -140,3 +140,4 @@ Make a PR to remove yourself if you want to do it again
 - [nvanonim](https://github.com/nvanonim)
 - [xCykrix](https://github.com/xCykrix)
 - [dobettersoftware](https://github.com/dobettersoftware)
+- [tedi25](https://github.com/tedi25)
