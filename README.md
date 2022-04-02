@@ -129,3 +129,4 @@ Make a PR to remove yourself if you want to do it again
 - [MeoMix](https://github.com/MeoMix)
 - [evan-delasota](https://github.com/evan-delasota)
 - [diligent176](https://github.com/diligent176)
+- [renato-bohler](https://github.com/renato-bohler)
