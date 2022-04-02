@@ -239,3 +239,4 @@ Make a PR to remove yourself if you want to do it again
 - [dkarter](https://github.com/dkarter)
 - [anikerr](https://github.com/anikerr)
 - [Zeragamba](https://github.com/Zeragamba)
+- [nomcopter](https://github.com/nomcopter)
