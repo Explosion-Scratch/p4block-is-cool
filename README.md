@@ -295,3 +295,4 @@ Make a PR to remove yourself if you want to do it again
 - [cecrigope](https://github.com/cecrigope)
 - [Topener](https://github.com/Topener)
 - [Liamdoult](https://github.com/Liamdoult)
+- [swummoq](https://github.com/swummoq)
