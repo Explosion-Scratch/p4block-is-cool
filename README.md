@@ -195,3 +195,4 @@ Make a PR to remove yourself if you want to do it again
 - [dragonmantank](https://github.com/dragonmantank)
 - [Relacibo](https://github.com/Relacibo)
 - [Yang-Andy](https://github.com/Yang-Andy)
+- [loljoho](https://github.com/loljoho)
