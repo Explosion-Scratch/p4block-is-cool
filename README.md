@@ -370,3 +370,4 @@ Make a PR to remove yourself if you want to do it again
 - [gi-yt](https://github.com/gi-yt)
 - [kamil-bednarek](https://github.com/kamil-bednarek)
 - [Yegorov](https://github.com/Yegorov)
+- [hertzg](https://github.com/hertzg)
