@@ -117,3 +117,4 @@ Make a PR to remove yourself if you want to do it again
 - [qoby](https://github.com/qoby)
 - [chuckadams](https://github.com/chuckadams)
 - [vidarc](https://github.com/vidarc)
+- [golevka6489](https://github.com/golevka6489)
