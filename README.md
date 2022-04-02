@@ -379,3 +379,4 @@ Make a PR to remove yourself if you want to do it again
 - [justjosias](https://github.com/justjosias)
 - [jmc-figueira](https://github.com/jmc-figueira)
 - [RSantos94](https://github.com/RSantos94)
+- [lunaisnotaboy](https://github.com/lunaisnotaboy)
