@@ -201,3 +201,4 @@ Make a PR to remove yourself if you want to do it again
 - [mattmolo](https://github.com/mattmolo)
 - [eranimo](https://github.com/eranimo)
 - [profound7](https://github.com/profound7)
+- [gotrevor](https://github.com/gotrevor)
