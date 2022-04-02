@@ -311,3 +311,4 @@ Make a PR to remove yourself if you want to do it again
 - [oroce](https://github.com/oroce)
 - [dotconnor](https://github.com/dotconnor)
 - [squaretron](https://github.com/squaretron)
+- [Stazyu](https://github.com/Stazyu)
