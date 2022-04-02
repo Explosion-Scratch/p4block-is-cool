@@ -343,3 +343,4 @@ Make a PR to remove yourself if you want to do it again
 - [krustowski](https://github.com/krustowski)
 - [dreamph666](https://github.com/dreamph666)
 - [nunoleong](https://github.com/nunoleong)
+- [usdogu](https://github.com/usdogu)
