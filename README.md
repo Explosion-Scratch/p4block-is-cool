@@ -245,3 +245,4 @@ Make a PR to remove yourself if you want to do it again
 - [ahtcx](https://github.com/ahtcx)
 - [seanvelasco](https://github.com/seanvelasco)
 - [VictorGaiva](https://github.com/VictorGaiva)
+- [Temepest74](https://github.com/Temepest74)
