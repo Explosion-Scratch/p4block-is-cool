@@ -272,3 +272,4 @@ Make a PR to remove yourself if you want to do it again
 - [bab178](https://github.com/bab178)
 - [petarzarkov](https://github.com/petarzarkov)
 - [bloqhead](https://github.com/bloqhead)
+- [vaaski](https://github.com/vaaski)
