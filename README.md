@@ -158,3 +158,4 @@ Make a PR to remove yourself if you want to do it again
 - [garonfok](https://github.com/garonfok)
 - [dtrodger](https://github.com/dtrodger)
 - [kieraneglin](https://github.com/kieraneglin)
+- [eli-s-r](https://github.com/eli-s-r)
