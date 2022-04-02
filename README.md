@@ -104,3 +104,4 @@ Make a PR to remove yourself if you want to do it again
 - [timc13](https://github.com/timc13)
 - [arcman77](https://github.com/arcman77)
 - [alexvoedi](https://github.com/alexvoedi)
+- [misterjmw](https://github.com/misterjmw)
