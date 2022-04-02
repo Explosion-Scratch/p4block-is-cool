@@ -261,3 +261,4 @@ Make a PR to remove yourself if you want to do it again
 - [CheatCodeSam](https://github.com/CheatCodeSam)
 - [nicholas-ochoa](https://github.com/nicholas-ochoa)
 - [rharkov](https://github.com/rharkov)
+- [jagdishjadeja](https://github.com/jagdishjadeja)
