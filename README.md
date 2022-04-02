@@ -106,3 +106,4 @@ Make a PR to remove yourself if you want to do it again
 - [alexvoedi](https://github.com/alexvoedi)
 - [misterjmw](https://github.com/misterjmw)
 - [ngearhart](https://github.com/ngearhart)
+- [dliv](https://github.com/dliv)
