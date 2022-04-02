@@ -376,3 +376,4 @@ Make a PR to remove yourself if you want to do it again
 - [elliotcourant](https://github.com/elliotcourant)
 - [AJLStick](https://github.com/AJLStick)
 - [janriemer](https://github.com/janriemer)
+- [justjosias](https://github.com/justjosias)
