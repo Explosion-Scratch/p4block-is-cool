@@ -196,3 +196,4 @@ Make a PR to remove yourself if you want to do it again
 - [Relacibo](https://github.com/Relacibo)
 - [Yang-Andy](https://github.com/Yang-Andy)
 - [loljoho](https://github.com/loljoho)
+- [thalissa](https://github.com/thalissa)
