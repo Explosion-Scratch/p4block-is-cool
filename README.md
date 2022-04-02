@@ -326,3 +326,4 @@ Make a PR to remove yourself if you want to do it again
 - [nondotxyz](https://github.com/nondotxyz)
 - [rajatdua](https://github.com/rajatdua)
 - [ammarif](https://github.com/ammarif)
+- [JcdeA](https://github.com/JcdeA)
