@@ -199,3 +199,4 @@ Make a PR to remove yourself if you want to do it again
 - [thalissa](https://github.com/thalissa)
 - [cemsity](https://github.com/cemsity)
 - [mattmolo](https://github.com/mattmolo)
+- [eranimo](https://github.com/eranimo)
