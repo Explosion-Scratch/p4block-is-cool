@@ -249,3 +249,4 @@ Make a PR to remove yourself if you want to do it again
 - [bryan-hoang](https://github.com/bryan-hoang)
 - [jantzeca](https://github.com/jantzeca)
 - [e-coders](https://github.com/e-coders)
+- [jordancardwell](https://github.com/jordancardwell)
