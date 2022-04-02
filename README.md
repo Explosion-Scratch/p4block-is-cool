@@ -192,3 +192,4 @@ Make a PR to remove yourself if you want to do it again
 - [Sylveon76](https://github.com/Sylveon76)
 - [joshsj](https://github.com/joshsj)
 - [jonathanlinat](https://github.com/jonathanlinat)
+- [dragonmantank](https://github.com/dragonmantank)
