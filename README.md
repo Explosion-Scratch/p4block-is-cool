@@ -348,3 +348,4 @@ Make a PR to remove yourself if you want to do it again
 - [dialgamew](https://github.com/dialgamew)
 - [Sid72020123](https://github.com/Sid72020123)
 - [BitLooter](https://github.com/BitLooter)
+- [Secret-chest](https://github.com/Secret-chest)
