@@ -100,3 +100,4 @@ Make a PR to remove yourself if you want to do it again
 - [simlevesque](https://github.com/simlevesque)
 - [alexruimy](https://github.com/alexruimy)
 - [s1ntaxe770r](https://github.com/s1ntaxe770r)
+- [bobwhitelock](https://github.com/bobwhitelock)
