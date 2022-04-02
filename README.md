@@ -276,3 +276,4 @@ Make a PR to remove yourself if you want to do it again
 - [HFDrae](https://github.com/HFDrae)
 - [DylanSp](https://github.com/DylanSp)
 - [Celeo](https://github.com/Celeo)
+- [Snoparino](https://github.com/Snoparino)
