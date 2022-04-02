@@ -229,3 +229,4 @@ Make a PR to remove yourself if you want to do it again
 - [Fd-197](https://github.com/Fd-197)
 - [the-darce](https://github.com/the-darce)
 - [rayyreall](https://github.com/rayyreall)
+- [aaronpo97](https://github.com/aaronpo97)
