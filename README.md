@@ -416,3 +416,4 @@ Make a PR to remove yourself if you want to do it again
 - [trippup](https://github.com/trippup)
 - [lxndr-rl](https://github.com/lxndr-rl)
 - [GauthierCraxIT](https://github.com/GauthierCraxIT)
+- [Baronhez](https://github.com/Baronhez)
