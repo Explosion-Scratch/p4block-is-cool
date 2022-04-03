@@ -419,3 +419,4 @@ Make a PR to remove yourself if you want to do it again
 - [Baronhez](https://github.com/Baronhez)
 - [vetash](https://github.com/vetash)
 - [aureq](https://github.com/aureq)
+- [cfuendesign](https://github.com/cfuendesign)
