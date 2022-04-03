@@ -397,3 +397,4 @@ Make a PR to remove yourself if you want to do it again
 - [johan-perso](https://github.com/johan-perso)
 - [linuxct](https://github.com/linuxct)
 - [lil5](https://github.com/lil5)
+- [nskazki](https://github.com/nskazki)
