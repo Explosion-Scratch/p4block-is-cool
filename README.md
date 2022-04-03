@@ -417,3 +417,4 @@ Make a PR to remove yourself if you want to do it again
 - [lxndr-rl](https://github.com/lxndr-rl)
 - [GauthierCraxIT](https://github.com/GauthierCraxIT)
 - [Baronhez](https://github.com/Baronhez)
+- [vetash](https://github.com/vetash)
