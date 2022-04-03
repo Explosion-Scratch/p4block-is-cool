@@ -404,3 +404,4 @@ Make a PR to remove yourself if you want to do it again
 - [attrition](https://github.com/attrition)
 - [Hamy-os](https://github.com/Hamy-os)
 - [aronwoost](https://github.com/aronwoost)
+- [SPGoding](https://github.com/SPGoding)
