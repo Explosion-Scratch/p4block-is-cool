@@ -409,3 +409,4 @@ Make a PR to remove yourself if you want to do it again
 - [shripal-is-in](https://github.com/shripal-is-in)
 - [xiel](https://github.com/xiel)
 - [luandro](https://github.com/luandro)
+- [elythh](https://github.com/elythh)
