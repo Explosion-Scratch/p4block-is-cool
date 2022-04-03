@@ -407,3 +407,4 @@ Make a PR to remove yourself if you want to do it again
 - [SPGoding](https://github.com/SPGoding)
 - [Quriz](https://github.com/Quriz)
 - [shripal-is-in](https://github.com/shripal-is-in)
+- [xiel](https://github.com/xiel)
