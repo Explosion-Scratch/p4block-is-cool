@@ -418,3 +418,4 @@ Make a PR to remove yourself if you want to do it again
 - [GauthierCraxIT](https://github.com/GauthierCraxIT)
 - [Baronhez](https://github.com/Baronhez)
 - [vetash](https://github.com/vetash)
+- [aureq](https://github.com/aureq)
