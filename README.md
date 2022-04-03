@@ -381,3 +381,4 @@ Make a PR to remove yourself if you want to do it again
 - [RSantos94](https://github.com/RSantos94)
 - [lunaisnotaboy](https://github.com/lunaisnotaboy)
 - [edgarMejia](https://github.com/edgarMejia)
+- [daboross](https://github.com/daboross)
