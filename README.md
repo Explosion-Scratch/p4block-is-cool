@@ -408,3 +408,4 @@ Make a PR to remove yourself if you want to do it again
 - [Quriz](https://github.com/Quriz)
 - [shripal-is-in](https://github.com/shripal-is-in)
 - [xiel](https://github.com/xiel)
+- [luandro](https://github.com/luandro)
