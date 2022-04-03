@@ -405,3 +405,4 @@ Make a PR to remove yourself if you want to do it again
 - [Hamy-os](https://github.com/Hamy-os)
 - [aronwoost](https://github.com/aronwoost)
 - [SPGoding](https://github.com/SPGoding)
+- [Quriz](https://github.com/Quriz)
