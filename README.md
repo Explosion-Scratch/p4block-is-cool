@@ -382,3 +382,4 @@ Make a PR to remove yourself if you want to do it again
 - [lunaisnotaboy](https://github.com/lunaisnotaboy)
 - [edgarMejia](https://github.com/edgarMejia)
 - [daboross](https://github.com/daboross)
+- [Bluebottel](https://github.com/Bluebottel)
