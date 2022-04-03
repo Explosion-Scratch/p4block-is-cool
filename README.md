@@ -394,3 +394,4 @@ Make a PR to remove yourself if you want to do it again
 - [samuelnihbos](https://github.com/samuelnihbos)
 - [royalbhati](https://github.com/royalbhati)
 - [sidsbrmnn](https://github.com/sidsbrmnn)
+- [johan-perso](https://github.com/johan-perso)
