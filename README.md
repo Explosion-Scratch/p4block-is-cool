@@ -447,3 +447,4 @@ Make a PR to remove yourself if you want to do it again
 - [joepalomino](https://github.com/joepalomino)
 - [JonhyOliveira](https://github.com/JonhyOliveira)
 - [ovo](https://github.com/ovo)
+- [commarla](https://github.com/commarla)
