@@ -448,3 +448,4 @@ Make a PR to remove yourself if you want to do it again
 - [JonhyOliveira](https://github.com/JonhyOliveira)
 - [ovo](https://github.com/ovo)
 - [commarla](https://github.com/commarla)
+- [superatomic](https://github.com/superatomic)
