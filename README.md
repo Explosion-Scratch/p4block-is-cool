@@ -432,3 +432,4 @@ Make a PR to remove yourself if you want to do it again
 - [LeeSeungjae00](https://github.com/LeeSeungjae00)
 - [HyunWoo9930](https://github.com/HyunWoo9930)
 - [c9u11](https://github.com/c9u11)
+- [Tazeg](https://github.com/Tazeg)
