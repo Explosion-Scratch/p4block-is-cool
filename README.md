@@ -436,3 +436,4 @@ Make a PR to remove yourself if you want to do it again
 - [paulvandermeijs](https://github.com/paulvandermeijs)
 - [bokub](https://github.com/bokub)
 - [JKetelaar](https://github.com/JKetelaar)
+- [simon511000](https://github.com/simon511000)
