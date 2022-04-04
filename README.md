@@ -435,3 +435,4 @@ Make a PR to remove yourself if you want to do it again
 - [Tazeg](https://github.com/Tazeg)
 - [paulvandermeijs](https://github.com/paulvandermeijs)
 - [bokub](https://github.com/bokub)
+- [JKetelaar](https://github.com/JKetelaar)
