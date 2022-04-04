@@ -451,3 +451,4 @@ Make a PR to remove yourself if you want to do it again
 - [superatomic](https://github.com/superatomic)
 - [un-simp](https://github.com/un-simp)
 - [alyx](https://github.com/alyx)
+- [DogCatPuppyLover](https://github.com/DogCatPuppyLover)
