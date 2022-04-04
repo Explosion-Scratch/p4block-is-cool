@@ -420,3 +420,4 @@ Make a PR to remove yourself if you want to do it again
 - [vetash](https://github.com/vetash)
 - [aureq](https://github.com/aureq)
 - [cfuendesign](https://github.com/cfuendesign)
+- [MulverineX](https://github.com/MulverineX)
