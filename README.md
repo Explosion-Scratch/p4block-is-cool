@@ -424,3 +424,4 @@ Make a PR to remove yourself if you want to do it again
 - [VFDan](https://github.com/VFDan)
 - [Kaushty](https://github.com/Kaushty)
 - [elementh](https://github.com/elementh)
+- [JeromeJaJa](https://github.com/JeromeJaJa)
