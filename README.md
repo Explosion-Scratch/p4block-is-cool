@@ -429,3 +429,4 @@ Make a PR to remove yourself if you want to do it again
 - [jo-minjun](https://github.com/jo-minjun)
 - [hopewise](https://github.com/hopewise)
 - [JungHyeonwoo](https://github.com/JungHyeonwoo)
+- [LeeSeungjae00](https://github.com/LeeSeungjae00)
