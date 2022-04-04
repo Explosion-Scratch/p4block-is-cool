@@ -426,3 +426,4 @@ Make a PR to remove yourself if you want to do it again
 - [elementh](https://github.com/elementh)
 - [JeromeJaJa](https://github.com/JeromeJaJa)
 - [FourTOne5](https://github.com/FourTOne5)
+- [jo-minjun](https://github.com/jo-minjun)
