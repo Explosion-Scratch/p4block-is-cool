@@ -445,3 +445,4 @@ Make a PR to remove yourself if you want to do it again
 - [maelgangloff](https://github.com/maelgangloff)
 - [Candygoblen123](https://github.com/Candygoblen123)
 - [joepalomino](https://github.com/joepalomino)
+- [JonhyOliveira](https://github.com/JonhyOliveira)
