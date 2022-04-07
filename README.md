@@ -468,5 +468,5 @@ Make a PR to remove yourself if you want to do it again
 - [Nagol12344](https://github.com/Nagol12344)
 - [parzival-space](https://github.com/parzival-space)
 - [tensoid](https://github.com/tensoid)
-- [osfanbuff63](https://github.com/osfanbuff63)
 - [Oren-Lindsey](https://github.com/Oren-Lindsey)
+- [WorldLanguages](https://github.com/WorldLanguages)
