@@ -475,3 +475,4 @@ Make a PR to remove yourself if you want to do it again
 - [Mbrick2](https://github.com/Mbrick2)
 - [webdev03](https://github.com/webdev03)
 - [Deepak-Kharah](https://github.com/Deepak-Kharah)
+- [Sup2point0](https://github.com/Sup2point0)
