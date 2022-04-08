@@ -477,3 +477,4 @@ Make a PR to remove yourself if you want to do it again
 - [Deepak-Kharah](https://github.com/Deepak-Kharah)
 - [Sup2point0](https://github.com/Sup2point0)
 - [tieorange](https://github.com/tieorange)
+- [FunctionalMetatable](https://github.com/FunctionalMetatable)
