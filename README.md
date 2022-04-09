@@ -484,3 +484,4 @@ Make a PR to remove yourself if you want to do it again
 - [Dhuls-Scratch](https://github.com/Dhuls-Scratch)
 - [ELDRAZI-17](https://github.com/ELDRAZI-17)
 - [MWB6763](https://github.com/MWB6763)
+- [kccuber-scratch](https://github.com/kccuber-scratch)
