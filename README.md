@@ -107,7 +107,6 @@ Make a PR to remove yourself if you want to do it again
 - [misterjmw](https://github.com/misterjmw)
 - [ngearhart](https://github.com/ngearhart)
 - [dliv](https://github.com/dliv)
-- [SecretAgent55](https://github.com/SecretAgent55)
 - [johnmagbag1995](https://github.com/johnmagbag1995)
 - [mmiles02](https://github.com/mmiles02)
 - [sushant-j](https://github.com/sushant-j)
@@ -484,3 +483,4 @@ Make a PR to remove yourself if you want to do it again
 - [Gamediamond3757](https://github.com/Gamediamond3757)
 - [Dhuls-Scratch](https://github.com/Dhuls-Scratch)
 - [ELDRAZI-17](https://github.com/ELDRAZI-17)
+- [MWB6763](https://github.com/MWB6763)
