@@ -491,3 +491,4 @@ Make a PR to remove yourself if you want to do it again
 - [FuchsCrafter](https://github.com/FuchsCrafter)
 - [Norbiros](https://github.com/Norbiros)
 - [SkyCraft78](https://github.com/SkyCraft78)
+- [Magnogen](https://github.com/Magnogen)
