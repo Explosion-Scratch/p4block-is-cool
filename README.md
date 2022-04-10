@@ -494,3 +494,4 @@ Make a PR to remove yourself if you want to do it again
 - [Magnogen](https://github.com/Magnogen)
 - [leahcimto](https://github.com/leahcimto)
 - [CST1229](https://github.com/CST1229)
+- [JoshAtticus](https://github.com/JoshAtticus)
