@@ -489,3 +489,4 @@ Make a PR to remove yourself if you want to do it again
 - [osfanbuff63](https://github.com/osfanbuff63)
 - [tb148](https://github.com/tb148)
 - [FuchsCrafter](https://github.com/FuchsCrafter)
+- [Norbiros](https://github.com/Norbiros)
