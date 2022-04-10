@@ -490,3 +490,4 @@ Make a PR to remove yourself if you want to do it again
 - [tb148](https://github.com/tb148)
 - [FuchsCrafter](https://github.com/FuchsCrafter)
 - [Norbiros](https://github.com/Norbiros)
+- [SkyCraft78](https://github.com/SkyCraft78)
