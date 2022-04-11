@@ -471,7 +471,6 @@ Make a PR to remove yourself if you want to do it again
 - [WorldLanguages](https://github.com/WorldLanguages)
 - [Ascor8522](https://github.com/Ascor8522)
 - [GamerCreator1](https://github.com/GamerCreator1)
-- [Mbrick2](https://github.com/Mbrick2)
 - [webdev03](https://github.com/webdev03)
 - [Deepak-Kharah](https://github.com/Deepak-Kharah)
 - [Sup2point0](https://github.com/Sup2point0)
@@ -495,3 +494,4 @@ Make a PR to remove yourself if you want to do it again
 - [leahcimto](https://github.com/leahcimto)
 - [CST1229](https://github.com/CST1229)
 - [JoshAtticus](https://github.com/JoshAtticus)
+- [Mwalters75](https://github.com/Mwalters75)
