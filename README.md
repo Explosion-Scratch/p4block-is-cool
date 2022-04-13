@@ -499,3 +499,4 @@ Make a PR to remove yourself if you want to do it again
 - [ILOVETOMAKESTUFF](https://github.com/ILOVETOMAKESTUFF)
 - [BarelySmooth](https://github.com/BarelySmooth)
 - [AsianKoala](https://github.com/AsianKoala)
+- [Soitora](https://github.com/Soitora)
