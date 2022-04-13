@@ -500,3 +500,4 @@ Make a PR to remove yourself if you want to do it again
 - [BarelySmooth](https://github.com/BarelySmooth)
 - [AsianKoala](https://github.com/AsianKoala)
 - [Soitora](https://github.com/Soitora)
+- [thekaigonzalez](https://github.com/thekaigonzalez)
