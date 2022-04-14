@@ -502,3 +502,4 @@ Make a PR to remove yourself if you want to do it again
 - [Soitora](https://github.com/Soitora)
 - [thekaigonzalez](https://github.com/thekaigonzalez)
 - [th1nhhdk](https://github.com/th1nhhdk)
+- [flagpatch](https://github.com/flagpatch)
