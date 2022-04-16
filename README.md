@@ -504,3 +504,4 @@ Make a PR to remove yourself if you want to do it again
 - [th1nhhdk](https://github.com/th1nhhdk)
 - [flagpatch](https://github.com/flagpatch)
 - [OregSamSas](https://github.com/OregSamSas)
+- [Bulple](https://github.com/Bulple)
