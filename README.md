@@ -511,3 +511,4 @@ Make a PR to remove yourself if you want to do it again
 - [dpxrk-visionable](https://github.com/dpxrk-visionable)
 - [xandao6](https://github.com/xandao6)
 - [darkdarcool](https://github.com/darkdarcool)
+- [StringentDev](https://github.com/StringentDev)
