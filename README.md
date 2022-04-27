@@ -514,3 +514,4 @@ Make a PR to remove yourself if you want to do it again
 - [StringentDev](https://github.com/StringentDev)
 - [oluomotoso](https://github.com/oluomotoso)
 - [TalinTheDev](https://github.com/TalinTheDev)
+- [SecretAgent55](https://github.com/SecretAgent55)
