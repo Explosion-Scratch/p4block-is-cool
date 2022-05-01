@@ -515,3 +515,4 @@ Make a PR to remove yourself if you want to do it again
 - [oluomotoso](https://github.com/oluomotoso)
 - [TalinTheDev](https://github.com/TalinTheDev)
 - [SecretAgent55](https://github.com/SecretAgent55)
+- [CluckCluckChicken](https://github.com/CluckCluckChicken)
