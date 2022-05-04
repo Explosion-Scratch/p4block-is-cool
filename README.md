@@ -521,3 +521,4 @@ Make a PR to remove yourself if you want to do it again
 - [seb97979797](https://github.com/seb97979797)
 - [Woodie-07](https://github.com/Woodie-07)
 - [Skippy-the-derg](https://github.com/Skippy-the-derg)
+- [walidboulanouar](https://github.com/walidboulanouar)
