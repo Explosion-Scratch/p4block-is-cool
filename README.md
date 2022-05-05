@@ -523,3 +523,4 @@ Make a PR to remove yourself if you want to do it again
 - [Skippy-the-derg](https://github.com/Skippy-the-derg)
 - [walidboulanouar](https://github.com/walidboulanouar)
 - [iDevMC](https://github.com/iDevMC)
+- [Ssmidge](https://github.com/Ssmidge)
