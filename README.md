@@ -527,3 +527,4 @@ Make a PR to remove yourself if you want to do it again
 - [asdawifi](https://github.com/asdawifi)
 - [wildlingjill](https://github.com/wildlingjill)
 - [rgantzosonscratch](https://github.com/rgantzosonscratch)
+- [JonasPetri](https://github.com/JonasPetri)
