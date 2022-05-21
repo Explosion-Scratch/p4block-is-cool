@@ -36,7 +36,6 @@ Make a PR to remove yourself if you want to do it again
 - [micahlt](https://github.com/micahlt)
 - [khaki32](https://github.com/khaki32)
 - [murgatt](https://github.com/murgatt)
-- [xavierbloemen](https://github.com/xavierbloemen)
 - [ErrorGamer2000](https://github.com/ErrorGamer2000)
 - [AshleyGrant](https://github.com/AshleyGrant)
 - [wulliy](https://github.com/wulliy)
