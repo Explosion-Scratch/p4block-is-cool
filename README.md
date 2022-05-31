@@ -530,3 +530,4 @@ Make a PR to remove yourself if you want to do it again
 - [mankins](https://github.com/mankins)
 - [Guavabi](https://github.com/Guavabi)
 - [jpsspm](https://github.com/jpsspm)
+- [Desc686](https://github.com/Desc686)
