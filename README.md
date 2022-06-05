@@ -532,3 +532,4 @@ Make a PR to remove yourself if you want to do it again
 - [jpsspm](https://github.com/jpsspm)
 - [Desc686](https://github.com/Desc686)
 - [Chii-Onan](https://github.com/Chii-Onan)
+- [Codeize](https://github.com/Codeize)
