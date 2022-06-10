@@ -534,3 +534,4 @@ Make a PR to remove yourself if you want to do it again
 - [Chii-Onan](https://github.com/Chii-Onan)
 - [Codeize](https://github.com/Codeize)
 - [Xapu1337](https://github.com/Xapu1337)
+- [spantheslayer](https://github.com/spantheslayer)
