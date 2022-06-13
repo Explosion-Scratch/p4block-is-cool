@@ -536,3 +536,4 @@ Make a PR to remove yourself if you want to do it again
 - [Xapu1337](https://github.com/Xapu1337)
 - [spantheslayer](https://github.com/spantheslayer)
 - [SharafatKarim](https://github.com/SharafatKarim)
+- [KushalTanna24](https://github.com/KushalTanna24)
