@@ -535,3 +535,4 @@ Make a PR to remove yourself if you want to do it again
 - [Codeize](https://github.com/Codeize)
 - [Xapu1337](https://github.com/Xapu1337)
 - [spantheslayer](https://github.com/spantheslayer)
+- [SharafatKarim](https://github.com/SharafatKarim)
