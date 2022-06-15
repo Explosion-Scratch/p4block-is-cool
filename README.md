@@ -540,3 +540,4 @@ Make a PR to remove yourself if you want to do it again
 - [Xeesan](https://github.com/Xeesan)
 - [bdeshi](https://github.com/bdeshi)
 - [ahmubashshir](https://github.com/ahmubashshir)
+- [DelightedDuck](https://github.com/DelightedDuck)
