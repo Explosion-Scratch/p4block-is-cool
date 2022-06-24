@@ -546,3 +546,4 @@ Make a PR to remove yourself if you want to do it again
 - [JaydenDev](https://github.com/JaydenDev)
 - [n-ivkovic](https://github.com/n-ivkovic)
 - [Darth-Ness](https://github.com/Darth-Ness)
+- [brunofourcroy](https://github.com/brunofourcroy)
