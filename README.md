@@ -552,3 +552,4 @@ Make a PR to remove yourself if you want to do it again
 - [MaterArc](https://github.com/MaterArc)
 - [CodeLikeCrazE](https://github.com/CodeLikeCrazE)
 - [abdeljalil-salhi](https://github.com/abdeljalil-salhi)
+- [edom71](https://github.com/edom71)
