@@ -11,3 +11,4 @@ Make a PR to remove yourself if you want to do it again
 - [retronbv](https://github.com/retronbv)
 - [EpicGamer007](https://github.com/EpicGamer007)
 - [RatInChat](https://github.com/RatInChat)
+- [nootkroot](https://github.com/nootkroot)
