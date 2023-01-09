@@ -13,3 +13,4 @@ Make a PR to remove yourself if you want to do it again
 - [RatInChat](https://github.com/RatInChat)
 - [nootkroot](https://github.com/nootkroot)
 - [TheBugCoder](https://github.com/TheBugCoder)
+- [e-coders](https://github.com/e-coders)
