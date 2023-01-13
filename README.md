@@ -17,3 +17,4 @@ Make a PR to remove yourself if you want to do it again
 - [ErrorGamer2000](https://github.com/ErrorGamer2000)
 - [Cyberwolfdev](https://github.com/Cyberwolfdev)
 - [rgantzos](https://github.com/rgantzos)
+- [samrpf](https://github.com/samrpf)
