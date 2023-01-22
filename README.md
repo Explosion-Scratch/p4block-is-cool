@@ -19,3 +19,4 @@ Make a PR to remove yourself if you want to do it again
 - [rgantzos](https://github.com/rgantzos)
 - [samrpf](https://github.com/samrpf)
 - [mingkyme-xdn](https://github.com/mingkyme-xdn)
+- [DelightedDuck](https://github.com/DelightedDuck)
