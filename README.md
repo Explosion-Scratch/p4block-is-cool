@@ -21,3 +21,4 @@ Make a PR to remove yourself if you want to do it again
 - [mingkyme-xdn](https://github.com/mingkyme-xdn)
 - [DelightedDuck](https://github.com/DelightedDuck)
 - [insolitum](https://github.com/insolitum)
+- [JesusGautamah](https://github.com/JesusGautamah)
