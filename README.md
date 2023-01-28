@@ -24,3 +24,4 @@ Make a PR to remove yourself if you want to do it again
 - [JesusGautamah](https://github.com/JesusGautamah)
 - [tondrejk](https://github.com/tondrejk)
 - [egorgasay](https://github.com/egorgasay)
+- [PP-Namias](https://github.com/PP-Namias)
