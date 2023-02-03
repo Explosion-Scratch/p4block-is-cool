@@ -25,3 +25,4 @@ Make a PR to remove yourself if you want to do it again
 - [tondrejk](https://github.com/tondrejk)
 - [egorgasay](https://github.com/egorgasay)
 - [PP-Namias](https://github.com/PP-Namias)
+- [kshreve](https://github.com/kshreve)
