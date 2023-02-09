@@ -26,3 +26,4 @@ Make a PR to remove yourself if you want to do it again
 - [egorgasay](https://github.com/egorgasay)
 - [PP-Namias](https://github.com/PP-Namias)
 - [kshreve](https://github.com/kshreve)
+- [ascpial](https://github.com/ascpial)
