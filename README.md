@@ -29,3 +29,4 @@ Make a PR to remove yourself if you want to do it again
 - [ascpial](https://github.com/ascpial)
 - [Aeris1One](https://github.com/Aeris1One)
 - [Majoras16](https://github.com/Majoras16)
+- [ClashCrafty](https://github.com/ClashCrafty)
