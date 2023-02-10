@@ -30,3 +30,4 @@ Make a PR to remove yourself if you want to do it again
 - [Aeris1One](https://github.com/Aeris1One)
 - [Majoras16](https://github.com/Majoras16)
 - [ClashCrafty](https://github.com/ClashCrafty)
+- [LucasAlvaresA](https://github.com/LucasAlvaresA)
