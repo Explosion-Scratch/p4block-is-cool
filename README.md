@@ -27,3 +27,4 @@ Make a PR to remove yourself if you want to do it again
 - [PP-Namias](https://github.com/PP-Namias)
 - [kshreve](https://github.com/kshreve)
 - [ascpial](https://github.com/ascpial)
+- [Aeris1One](https://github.com/Aeris1One)
