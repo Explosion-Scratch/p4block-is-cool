@@ -31,3 +31,4 @@ Make a PR to remove yourself if you want to do it again
 - [Majoras16](https://github.com/Majoras16)
 - [ClashCrafty](https://github.com/ClashCrafty)
 - [LucasAlvaresA](https://github.com/LucasAlvaresA)
+- [J3ff5](https://github.com/J3ff5)
