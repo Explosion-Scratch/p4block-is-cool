@@ -33,3 +33,4 @@ Make a PR to remove yourself if you want to do it again
 - [LucasAlvaresA](https://github.com/LucasAlvaresA)
 - [J3ff5](https://github.com/J3ff5)
 - [TretinV3](https://github.com/TretinV3)
+- [Korozin](https://github.com/Korozin)
