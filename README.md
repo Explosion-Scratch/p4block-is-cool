@@ -37,3 +37,4 @@ Make a PR to remove yourself if you want to do it again
 - [Osckariyo](https://github.com/Osckariyo)
 - [Woodie-07](https://github.com/Woodie-07)
 - [Ahwxorg](https://github.com/Ahwxorg)
+- [GustyCube](https://github.com/GustyCube)
