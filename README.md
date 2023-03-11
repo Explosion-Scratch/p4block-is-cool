@@ -39,3 +39,4 @@ Make a PR to remove yourself if you want to do it again
 - [Ahwxorg](https://github.com/Ahwxorg)
 - [GustyCube](https://github.com/GustyCube)
 - [PurpleCube](https://github.com/PurpleCube)
+- [prplwtf](https://github.com/prplwtf)
