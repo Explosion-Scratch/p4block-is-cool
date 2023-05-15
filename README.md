@@ -44,3 +44,4 @@ Make a PR to remove yourself if you want to do it again
 - [pyp](https://github.com/pyp)
 - [TheBlackCookie](https://github.com/TheBlackCookie)
 - [xCykrix](https://github.com/xCykrix)
+- [danielnewell](https://github.com/danielnewell)
