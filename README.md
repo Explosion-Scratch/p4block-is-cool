@@ -51,3 +51,4 @@ Make a PR to remove yourself if you want to do it again
 - [real-kwellercat](https://github.com/real-kwellercat)
 - [Firepup6500](https://github.com/Firepup6500)
 - [NotConspicuous](https://github.com/NotConspicuous)
+- [buddy-codes](https://github.com/buddy-codes)
