@@ -49,3 +49,4 @@ Make a PR to remove yourself if you want to do it again
 - [TurtleCode84](https://github.com/TurtleCode84)
 - [RedGuy12](https://github.com/RedGuy12)
 - [real-kwellercat](https://github.com/real-kwellercat)
+- [Firepup6500](https://github.com/Firepup6500)
