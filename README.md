@@ -52,3 +52,4 @@ Make a PR to remove yourself if you want to do it again
 - [Firepup6500](https://github.com/Firepup6500)
 - [NotConspicuous](https://github.com/NotConspicuous)
 - [buddy-codes](https://github.com/buddy-codes)
+- [lafkpages](https://github.com/lafkpages)
