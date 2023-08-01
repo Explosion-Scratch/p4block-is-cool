@@ -53,3 +53,4 @@ Make a PR to remove yourself if you want to do it again
 - [NotConspicuous](https://github.com/NotConspicuous)
 - [buddy-codes](https://github.com/buddy-codes)
 - [lafkpages](https://github.com/lafkpages)
+- [TalinTheDev](https://github.com/TalinTheDev)
