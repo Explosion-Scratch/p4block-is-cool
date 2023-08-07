@@ -54,3 +54,4 @@ Make a PR to remove yourself if you want to do it again
 - [buddy-codes](https://github.com/buddy-codes)
 - [lafkpages](https://github.com/lafkpages)
 - [TalinTheDev](https://github.com/TalinTheDev)
+- [NeonGamerBot-QK](https://github.com/NeonGamerBot-QK)
