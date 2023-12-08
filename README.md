@@ -61,3 +61,4 @@ Make a PR to remove yourself if you want to do it again
 - [AbdurahmanAb](https://github.com/AbdurahmanAb)
 - [callumjt](https://github.com/callumjt)
 - [phat-pratt](https://github.com/phat-pratt)
+- [vedantecomm](https://github.com/vedantecomm)
