@@ -64,3 +64,4 @@ Make a PR to remove yourself if you want to do it again
 - [vedantecomm](https://github.com/vedantecomm)
 - [devxan](https://github.com/devxan)
 - [0fie](https://github.com/0fie)
+- [aaronpo97](https://github.com/aaronpo97)
