@@ -75,3 +75,4 @@ Make a PR to remove yourself if you want to do it again
 - [shinyxn](https://github.com/shinyxn)
 - [indonumberone](https://github.com/indonumberone)
 - [ZimTheDestroyer](https://github.com/ZimTheDestroyer)
+- [missAnneThorpe](https://github.com/missAnneThorpe)
