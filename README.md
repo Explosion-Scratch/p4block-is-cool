@@ -76,3 +76,4 @@ Make a PR to remove yourself if you want to do it again
 - [indonumberone](https://github.com/indonumberone)
 - [ZimTheDestroyer](https://github.com/ZimTheDestroyer)
 - [missAnneThorpe](https://github.com/missAnneThorpe)
+- [quervyloll](https://github.com/quervyloll)
