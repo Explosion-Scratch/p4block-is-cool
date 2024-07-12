@@ -78,3 +78,4 @@ Make a PR to remove yourself if you want to do it again
 - [missAnneThorpe](https://github.com/missAnneThorpe)
 - [quervyloll](https://github.com/quervyloll)
 - [xyzbtw](https://github.com/xyzbtw)
+- [AquaMinerale2b2t](https://github.com/AquaMinerale2b2t)
